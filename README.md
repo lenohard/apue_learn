@@ -1,2 +1,2 @@
 # apue_learn
-My personal tryout while learning from apue(&lt;&lt;advanced programming in unix enviroment>> )by Richard Stevens
+My personal codes and notes  while learning from apue(&lt;&lt;advanced programming in unix enviroment>> )by Richard Stevens
